@@ -1,5 +1,5 @@
 # AI-Essay-Refiner
-#Developed a beginner-friendly tool that refines grammar in essays by processing .pdf, .docx, or .txt files. The system uses basic AI and NLP techniques to analyse the input text and generate a grammatically improved version, enhancing clarity and correctness.
+Developed a beginner-friendly tool that refines grammar in essays by processing .pdf, .docx, or .txt files. The system uses basic AI and NLP techniques to analyse the input text and generate a grammatically improved version, enhancing clarity and correctness.
 # Install required libraries
 !pip install transformers sentencepiece torch python-docx PyMuPDF
 
